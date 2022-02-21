@@ -1,4 +1,4 @@
-# NOISE-ASSISTED MULTIVARIATE VARIATIONAL MODE DECOMPOSITION (Accepted Paper on ICASSP 2021)
+# NOISE-ASSISTED MULTIVARIATE VARIATIONAL MODE DECOMPOSITION (Accepted Paper ICASSP 2021)
 
 **Authors:** Charilaos A. Zisou, Georgios K. Apostolidis, Leontios J. Hadjileontiadis
 
